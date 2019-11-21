@@ -70,6 +70,7 @@
     <Compile Include="Assets\Scripts\JuegoHistoria.cs" />
     <Compile Include="Assets\Scripts\MenuSonido.cs" />
     <Compile Include="Assets\Scripts\Nivel1.cs" />
+    <Compile Include="Assets\Scripts\Pista.cs" />
     <Compile Include="Assets\Scripts\VolverAlMenu.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Uni/3º/Primer Cuatri/Interacción Persona-Máquina y Usabilidad/En Busca de Carlos Dufour/EnBuscadeCarlosDufour/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
