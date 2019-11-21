@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\Inicio.cs" />
     <Compile Include="Assets\Scripts\IrAlMapa.cs" />
     <Compile Include="Assets\Scripts\JuegoHistoria.cs" />
+    <Compile Include="Assets\Scripts\MenuSonido.cs" />
     <Compile Include="Assets\Scripts\Nivel1.cs" />
     <Compile Include="Assets\Scripts\VolverAlMenu.cs" />
     <Reference Include="Unity.Timeline.Editor">
