@@ -63,7 +63,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Correcta.cs" />
+    <Compile Include="Assets\Scripts\Incorrecta.cs" />
     <Compile Include="Assets\Scripts\Inicio.cs" />
+    <Compile Include="Assets\Scripts\IrAlMapa.cs" />
+    <Compile Include="Assets\Scripts\JuegoHistoria.cs" />
+    <Compile Include="Assets\Scripts\Nivel1.cs" />
     <Compile Include="Assets\Scripts\VolverAlMenu.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Uni/3º/Primer Cuatri/Interacción Persona-Máquina y Usabilidad/En Busca de Carlos Dufour/EnBuscadeCarlosDufour/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
