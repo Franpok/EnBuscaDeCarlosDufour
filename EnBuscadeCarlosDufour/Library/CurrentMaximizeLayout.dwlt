@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 681, y: 472}
   m_MaxSize: {x: 14002, y: 14022}
   vertical: 0
-  controlID: 4957
+  controlID: 14392
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -130,7 +130,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 472}
   m_MaxSize: {x: 10000, y: 14022}
   vertical: 1
-  controlID: 4958
+  controlID: 14371
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -155,7 +155,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 222}
   m_MaxSize: {x: 8004, y: 4022}
   vertical: 0
-  controlID: 4959
+  controlID: 14372
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -213,7 +213,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 56f7ffff58f7ffff8ef8ffffc6f8ffff00f9ffffdafaffff6afbffff52330000c23300009e360000
+      m_ExpandedIDs: b8cbffff94d2ffff82e2ffff60e3ffff1ce4ffff12e5ffffc4e6ffff32e7ffff66e7ffff56f7ffff58f7ffff8ef8ffffc6f8ffff00f9ffffdafaffff6afbffff52330000c23300009e360000c2440000dc460000f0480000c44d0000244e0000604e0000a85a000090640000a2640000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -301,9 +301,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 427.37628, y: 286.62625, z: -657}
+    m_Target: {x: 422.50125, y: 290.54095, z: -657}
     speed: 2
-    m_Value: {x: 427.37628, y: 286.62625, z: -657}
+    m_Value: {x: 422.50125, y: 290.54095, z: -657}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -336,9 +336,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 13.308304
+    m_Target: 3.1527166
     speed: 2
-    m_Value: 13.308304
+    m_Value: 3.1527166
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -456,20 +456,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Recursos/Sonido
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Recursos/Sonido
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "D:\\Uni\\3\xBA\\Primer Cuatri\\Interacci\xF3n Persona-M\xE1quina
     y Usabilidad\\En Busca de Carlos Dufour\\EnBuscadeCarlosDufour"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 34}
-    m_SelectedIDs: 403b0000
-    m_LastClickedID: 15168
+    scrollPos: {x: 0, y: 102}
+    m_SelectedIDs: 242d0000
+    m_LastClickedID: 11556
     m_ExpandedIDs: 00000000ac2c0000f22e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -523,8 +523,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 4c360000
-    m_LastClickedInstanceID: 13900
+    m_SelectedInstanceIDs: 90640000
+    m_LastClickedInstanceID: 25744
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000e03a0000
     m_RenameOverlay:
@@ -643,8 +643,8 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
-  m_LastInspectedObjectInstanceID: 13900
-  m_LastVerticalScrollValue: 458
+  m_LastInspectedObjectInstanceID: 25744
+  m_LastVerticalScrollValue: 404
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52

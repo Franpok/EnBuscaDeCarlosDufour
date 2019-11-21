@@ -390,7 +390,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   menuPausa: {fileID: 420728811}
   cuadro: {fileID: 1446080913}
-  noPixel: {fileID: 21300000, guid: fa2ce5b4ef1c29d4590eef111a862d19, type: 3}
+  noPixel: {fileID: 21300000, guid: a5d4f58d168983f49ac8701fd20af4b8, type: 3}
 --- !u!1 &43331247
 GameObject:
   m_ObjectHideFlags: 0
@@ -587,7 +587,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: cc65eb8d4eccf2a48a5613dc298ac245, type: 3}
+  m_Sprite: {fileID: 21300000, guid: eb8ad414f61098d40927e938a4c98dc7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1051,12 +1051,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 555117493}
-        m_MethodName: incorrecta
-        m_Mode: 1
+        m_MethodName: correcta
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 6
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -1079,7 +1079,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 9232e72a40e21fd469b1f46603fba5b9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1e9d6b4ce8aef094e8fd4942fcabc16f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1111,7 +1111,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   wrong: {fileID: 43331248}
   right: {fileID: 4038175}
-  newSprite: {fileID: 21300000, guid: 4f57ce060c9067c4e91a15440001213c, type: 3}
+  newSprite: {fileID: 21300000, guid: 406744a582f0ee949af1fc47e459296a, type: 3}
 --- !u!1 &555927641
 GameObject:
   m_ObjectHideFlags: 0
@@ -1389,8 +1389,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 729192994}
-        m_MethodName: correcta
-        m_Mode: 3
+        m_MethodName: incorrecta
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -1417,7 +1417,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5284dd0f67dd567468a1d0396d42159a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fe4d829a831f7ae47b39dd232de3b165, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1449,7 +1449,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   wrong: {fileID: 43331248}
   right: {fileID: 4038175}
-  newSprite: {fileID: 0}
+  newSprite: {fileID: 21300000, guid: e0c32d7ac9ae05a4f9bff8540f7685cf, type: 3}
 --- !u!1 &751095971
 GameObject:
   m_ObjectHideFlags: 0
@@ -1814,7 +1814,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1254680615
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1931,8 +1931,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -84.1, y: -156.3}
-  m_SizeDelta: {x: 182.2, y: 20.7}
+  m_AnchoredPosition: {x: -93.61, y: -158.41}
+  m_SizeDelta: {x: 169.84, y: 20.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1284551395
 MonoBehaviour:
@@ -1983,7 +1983,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 6
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -2647,12 +2647,12 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_MethodName: 
+      - m_Target: {fileID: 1763985080}
+        m_MethodName: incorrecta
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -2676,7 +2676,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1303b7e0632c9da408a461b4ee831dc7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f787f0d3ae605334da52c65389636647, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2708,7 +2708,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   wrong: {fileID: 43331248}
   right: {fileID: 4038175}
-  newSprite: {fileID: 21300000, guid: e44edf8e81fe2304f90bc983f4672c8f, type: 3}
+  newSprite: {fileID: 21300000, guid: 549b416998b630c49bfe238f5c7d81b6, type: 3}
 --- !u!1 &1975458622
 GameObject:
   m_ObjectHideFlags: 0
