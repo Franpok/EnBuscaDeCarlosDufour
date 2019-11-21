@@ -18,11 +18,13 @@ public class JuegoHistoria : MonoBehaviour
     public void correcta(int nivel)
     {
         SceneManager.LoadScene(nivel);
+        //sonido correcto
     }
 
     public void incorrecta()
     {
         this.GetComponent<Image>().sprite = newSprite;
+        //aqui va el sonido
     }
     // Update is called once per frame
     void Update()
