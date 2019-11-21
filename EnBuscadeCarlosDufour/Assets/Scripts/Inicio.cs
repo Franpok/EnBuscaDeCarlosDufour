@@ -12,7 +12,7 @@ public class Inicio : MonoBehaviour
     }
     public void jugar()
     {
-        Debug.Log("E");
+       
         SceneManager.LoadScene(1);
     }
 }

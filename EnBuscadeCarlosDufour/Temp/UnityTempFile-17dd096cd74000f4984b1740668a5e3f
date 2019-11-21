@@ -292,5 +292,6 @@ Assets\Scripts\IrAlMapa.cs
 Assets\Scripts\JuegoHistoria.cs
 Assets\Scripts\MenuSonido.cs
 Assets\Scripts\Nivel1.cs
+Assets\Scripts\NoImplemengtado.cs
 Assets\Scripts\Pista.cs
 Assets\Scripts\VolverAlMenu.cs
