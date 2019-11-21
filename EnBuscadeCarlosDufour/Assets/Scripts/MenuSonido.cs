@@ -9,10 +9,9 @@ public class MenuSonido : MonoBehaviour
     private void Start()
     {
         menuPausa.SetActive(false);
-        audioSrc = GetComponent<AudioSource>();
     }
-    private AudioSource audioSrc;
-    public float volumen; 
+  
+ 
     public GameObject menuPausa;
     public Sprite muted, sonido;
     public GameObject boton;
@@ -49,6 +48,6 @@ public class MenuSonido : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        volumen = audioSrc.volume;
+       
     }
 }
