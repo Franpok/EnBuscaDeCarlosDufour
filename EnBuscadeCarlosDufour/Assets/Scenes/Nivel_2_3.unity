@@ -390,7 +390,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   menuPausa: {fileID: 420728811}
   cuadro: {fileID: 1446080913}
-  noPixel: {fileID: 21300000, guid: fa2ce5b4ef1c29d4590eef111a862d19, type: 3}
+  noPixel: {fileID: 21300000, guid: a85f7905a401d4548af01638df575ec2, type: 3}
 --- !u!1 &43331247
 GameObject:
   m_ObjectHideFlags: 0
@@ -587,7 +587,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: cc65eb8d4eccf2a48a5613dc298ac245, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 606feb8535fa41c458e09d681704f2a2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1389,8 +1389,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 729192994}
-        m_MethodName: correcta
-        m_Mode: 3
+        m_MethodName: incorrecta
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -1417,7 +1417,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5284dd0f67dd567468a1d0396d42159a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e75edbbcdc3a6ab4cb03242d403df87f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1449,7 +1449,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   wrong: {fileID: 43331248}
   right: {fileID: 4038175}
-  newSprite: {fileID: 0}
+  newSprite: {fileID: 21300000, guid: f3da6b72c4ad3b94398f6677fc595813, type: 3}
 --- !u!1 &751095971
 GameObject:
   m_ObjectHideFlags: 0
@@ -1814,7 +1814,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1254680615
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1978,12 +1978,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1284551398}
-        m_MethodName: incorrecta
-        m_Mode: 1
+        m_MethodName: correcta
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 11
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -2006,7 +2006,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 857029ea489b1cd49a24c4597f826ef9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1823357df02b90b439fdb4b72828324b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2222,7 +2222,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 07ebae7a187020f4c98f25374959b077, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a87c5fc988808a24bbed9545ca9acd3d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2687,7 +2687,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1303b7e0632c9da408a461b4ee831dc7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1cecc3397a069054a9e796b4dc2bf65d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2719,7 +2719,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   wrong: {fileID: 43331248}
   right: {fileID: 4038175}
-  newSprite: {fileID: 21300000, guid: e44edf8e81fe2304f90bc983f4672c8f, type: 3}
+  newSprite: {fileID: 21300000, guid: 5c2d176c661f2aa42acde711a043d2f6, type: 3}
 --- !u!1 &1975458622
 GameObject:
   m_ObjectHideFlags: 0
