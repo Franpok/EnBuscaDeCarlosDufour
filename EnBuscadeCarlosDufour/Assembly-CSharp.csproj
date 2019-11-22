@@ -72,7 +72,10 @@
     <Compile Include="Assets\Scripts\Nivel1.cs" />
     <Compile Include="Assets\Scripts\NoImplemengtado.cs" />
     <Compile Include="Assets\Scripts\Pista.cs" />
+    <Compile Include="Assets\Scripts\Renacimiento.cs" />
+    <Compile Include="Assets\Scripts\Romanticismo.cs" />
     <Compile Include="Assets\Scripts\VolverAlMenu.cs" />
+    <Compile Include="Assets\Scripts\XX.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Uni/3º/Primer Cuatri/Interacción Persona-Máquina y Usabilidad/En Busca de Carlos Dufour/EnBuscadeCarlosDufour/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
