@@ -1079,7 +1079,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 9232e72a40e21fd469b1f46603fba5b9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b16658a75bd141849be6f60698cded7a, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1111,7 +1111,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   wrong: {fileID: 43331248}
   right: {fileID: 4038175}
-  newSprite: {fileID: 21300000, guid: 4f57ce060c9067c4e91a15440001213c, type: 3}
+  newSprite: {fileID: 21300000, guid: 155116a74ed2bfc4f91ee61b53c59e06, type: 3}
 --- !u!1 &555927641
 GameObject:
   m_ObjectHideFlags: 0
@@ -1394,7 +1394,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 4
+          m_IntArgument: 2
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -1417,7 +1417,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5284dd0f67dd567468a1d0396d42159a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e75edbbcdc3a6ab4cb03242d403df87f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1814,7 +1814,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1254680615
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2687,7 +2687,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1303b7e0632c9da408a461b4ee831dc7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: df4c5d93ab6965040b032e85cbfaead2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2719,7 +2719,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   wrong: {fileID: 43331248}
   right: {fileID: 4038175}
-  newSprite: {fileID: 21300000, guid: e44edf8e81fe2304f90bc983f4672c8f, type: 3}
+  newSprite: {fileID: 21300000, guid: ec78416bee463834b9a275e2f3894aaa, type: 3}
 --- !u!1 &1975458622
 GameObject:
   m_ObjectHideFlags: 0
