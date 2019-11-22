@@ -390,7 +390,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   menuPausa: {fileID: 420728811}
   cuadro: {fileID: 1446080913}
-  noPixel: {fileID: 21300000, guid: fa2ce5b4ef1c29d4590eef111a862d19, type: 3}
+  noPixel: {fileID: 21300000, guid: 343e38f94eb61a849ac2f2a177e4c1bc, type: 3}
 --- !u!1 &43331247
 GameObject:
   m_ObjectHideFlags: 0
@@ -587,7 +587,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: cc65eb8d4eccf2a48a5613dc298ac245, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c15500674c31cc24c8f2fb8630650e3e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2222,7 +2222,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 07ebae7a187020f4c98f25374959b077, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 544c4f44174955a4997bbd8df26d9136, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
